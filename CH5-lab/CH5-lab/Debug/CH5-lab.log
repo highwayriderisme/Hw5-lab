@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\user\desktop\ch5-lab\source\main.c(22): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  CH5-lab.vcxproj -> C:\Users\User\Desktop\CH5-lab\CH5-lab\Debug\CH5-lab.exe
